@@ -1,6 +1,6 @@
 (function() {
     var a = b = 5;
-})();
+})(); // will not compile with brackets
 
 console.log(b); //5
 
